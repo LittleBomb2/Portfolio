@@ -1,0 +1,44 @@
+body {
+	background-color: rgb(200, 200, 200);
+}
+
+.oma-header {
+	background-color: rgb(0, 100, 0);
+}
+
+.kuva {
+	width: 15vw;
+	height: 20vh;
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}
+
+body {
+	background-color: rgb(200, 200, 200);
+}
+
+.element {
+	background-color: white;
+	width: 100%;
+	text-align: center;
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	padding: 5px;
+}
+
+.element img {
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	padding: 5px;
+	width: 80%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.fluid_container{
+	margin: auto;
+	padding: 30px;
+}
