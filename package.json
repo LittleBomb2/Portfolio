@@ -1,7 +1,7 @@
 {
     "name": "my-react-app",
     "version": "0.1.0",
-    "homepage": "https://LittleBomb2.github.io/Portfolio/",
+    "homepage": "https://LittleBomb2.github.io/",
     "private": true,
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.5",
@@ -40,6 +40,7 @@
         ]
     },
     "devDependencies": {
-        "gh-pages": "^5.0.0"
+        "gh-pages": "^5.0.0",
+        "react-router-dom": "^6.11.0"
     }
 }

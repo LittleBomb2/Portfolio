@@ -1,5 +1,3 @@
-
-
 function Kuva() {
 	return (
 		<div>
